@@ -1,0 +1,14 @@
+python-dotenv
+fastapi
+httpx
+requests
+pyngrok
+watchdog
+asyncio
+pydantic
+pydantic_core
+psutil
+GPUtil
+gradio_client
+uvicorn
+bcrypt
